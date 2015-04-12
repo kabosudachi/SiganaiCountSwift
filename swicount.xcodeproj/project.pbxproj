@@ -13,6 +13,8 @@
 		D5BD70381ADA399E008E4E8D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D5BD70371ADA399E008E4E8D /* Images.xcassets */; };
 		D5BD703B1ADA399E008E4E8D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D5BD70391ADA399E008E4E8D /* LaunchScreen.xib */; };
 		D5BD70471ADA399E008E4E8D /* swicountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5BD70461ADA399E008E4E8D /* swicountTests.swift */; };
+		D5BD70531ADA4037008E4E8D /* kashi.png in Resources */ = {isa = PBXBuildFile; fileRef = D5BD70521ADA4037008E4E8D /* kashi.png */; };
+		D5BD70551ADA47BB008E4E8D /* kashi+.png in Resources */ = {isa = PBXBuildFile; fileRef = D5BD70541ADA47BB008E4E8D /* kashi+.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		D5BD70401ADA399E008E4E8D /* swicountTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swicountTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5BD70451ADA399E008E4E8D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D5BD70461ADA399E008E4E8D /* swicountTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swicountTests.swift; sourceTree = "<group>"; };
+		D5BD70521ADA4037008E4E8D /* kashi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kashi.png; sourceTree = "<group>"; };
+		D5BD70541ADA47BB008E4E8D /* kashi+.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kashi+.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 			children = (
 				D5BD70301ADA399E008E4E8D /* AppDelegate.swift */,
 				D5BD70321ADA399E008E4E8D /* ViewController.swift */,
+				D5BD70541ADA47BB008E4E8D /* kashi+.png */,
+				D5BD70521ADA4037008E4E8D /* kashi.png */,
 				D5BD70341ADA399E008E4E8D /* Main.storyboard */,
 				D5BD70371ADA399E008E4E8D /* Images.xcassets */,
 				D5BD70391ADA399E008E4E8D /* LaunchScreen.xib */,
@@ -192,6 +198,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D5BD70531ADA4037008E4E8D /* kashi.png in Resources */,
+				D5BD70551ADA47BB008E4E8D /* kashi+.png in Resources */,
 				D5BD70361ADA399E008E4E8D /* Main.storyboard in Resources */,
 				D5BD703B1ADA399E008E4E8D /* LaunchScreen.xib in Resources */,
 				D5BD70381ADA399E008E4E8D /* Images.xcassets in Resources */,
